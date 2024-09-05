@@ -4,7 +4,6 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
   lang: 'en-US',
-
   title: 'Welcome to Palace!',
   description: 'Specialmogic docs and notes about anything',
 
